@@ -1,5 +1,5 @@
 pipeline {
-  agent {label 'worker-node-jenkins-test-server'}
+  agent any
 
   environment {
     IMAGE_NAME = "vn2001/github-profile-summarizer"
