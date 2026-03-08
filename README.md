@@ -166,9 +166,6 @@ IMAGE_NAME = "your-dockerhub-username/github-profile-summarizer"
 ---
 
 ## 📄 License
-
-MIT © 2025 Shubham Gour
-
 ---
 
 💡 *Made for YouTube tutorials — easy to explain, easy to extend!*
